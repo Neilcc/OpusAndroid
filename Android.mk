@@ -1,5 +1,5 @@
 LOCAL_PATH := $(call my-dir)
-TARGET_ARCH_ABI := armeabi-v7a armeabi
+TARGET_ARCH_ABI := armeabi-v7a armeabi arm64-v8a
 TARGET_ARCH := arm
 
 include $(CLEAR_VARS)
